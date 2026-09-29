@@ -26,4 +26,4 @@
 |------|-------------|-------------------|----------|-----------|
 | 1 | Keerthana S| Multimodal receipt image parsing using Google Gemini 1.5 Flash API | AI Architecture & Vision | Group 03 |
 | 2 | Harini P | Automated line-item expense categorization and tax breakdown | Data Processing & Logic | Group 03 |
-| 3 | Jaysurya R| Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 03 |
+| 3 | Jaisurya R| Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 03 |
