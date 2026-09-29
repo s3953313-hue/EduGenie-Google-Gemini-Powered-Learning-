@@ -13,7 +13,6 @@
 - Milestone 4: Production deployment on Render and live domain verification.
 - 
 
-
 - *Date:* 29 September 2026
 - *Team ID:* 03
 - *Project Name:* EDUGENIE: GOOGLE GEMINI POWERED LEARNING ASSISSTANT
