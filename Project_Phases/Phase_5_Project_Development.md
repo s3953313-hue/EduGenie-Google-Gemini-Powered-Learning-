@@ -10,7 +10,7 @@
 
 
 - *Date:* 29 September 2026
-- *Team ID:* 03
+- *Team ID:* 13
 - *Project Name:* EDUGENIE: GOOGLE GEMINI POWERED LEARNING ASSISSTANT
 - *Maximum Marks:* 3 Marks
 
@@ -18,6 +18,6 @@
 
 | S.No | Team Member | Idea / Suggestion | Category | Group No. |
 |------|-------------|-------------------|----------|-----------|
-| 1 | Keerthana S| Multimodal receipt image parsing using Google Gemini 1.5 Flash API | AI Architecture & Vision | Group 03 |
-| 2 | Harini P | Automated line-item expense categorization and tax breakdown | Data Processing & Logic | Group 03 |
-| 3 | Jaisurya R| Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 03 |
+| 1 | Keerthana S| Multimodal receipt image parsing using Google Gemini 1.5 Flash API | AI Architecture & Vision | Group 13 |
+| 2 | Harini P | Automated line-item expense categorization and tax breakdown | Data Processing & Logic | Group 13 |
+| 3 | Jaisurya R| Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 13 |
